@@ -1,1 +1,2 @@
 This is stagingfile.
+Added a line for change
